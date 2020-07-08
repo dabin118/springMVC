@@ -12,6 +12,7 @@
         <module>springServlet</module>
         <module>MVCdemo</module>
         <module>MVCannotation</module>
+        <module>mvc-api</module>
     </modules>
 
 
